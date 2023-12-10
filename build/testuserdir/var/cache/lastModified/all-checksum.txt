@@ -1,0 +1,13 @@
+C:\Program Files\Autopsy-4.21.0\platform=1693294094000
+cluster.C:/cookie-parser-plugin-autopsy/build/cluster=1700449857023
+cluster.C:/Program Files/Autopsy-4.21.0/autopsy=1693294188000
+cluster.C:/Program Files/Autopsy-4.21.0/CoreTestLibs=1693294094000
+cluster.C:/Program Files/Autopsy-4.21.0/harness=1693294094000
+cluster.C:/Program Files/Autopsy-4.21.0/java=1693294094000
+cluster.C:/Program Files/Autopsy-4.21.0/platform=1693294094000
+user=1700449857023
+crc=7
+locale=en_ID
+branding=null
+java.version=17.0.8
+java.vm.version=17.0.8+9-LTS-211
