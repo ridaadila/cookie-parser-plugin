@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="ridaadila.cookieparser">
+    <module_version install_time="1700450029489" last="true" origin="installer" specification_version="1.0">
+        <file crc="4247289202" name="config/Modules/ridaadila-cookieparser.xml"/>
+        <file crc="1566781040" name="modules/ridaadila-cookieparser.jar"/>
+    </module_version>
+</module>
